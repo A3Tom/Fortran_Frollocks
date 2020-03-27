@@ -12,3 +12,5 @@ program guessnum
     print *, "Correct!"
 
 end program guessnum
+
+!bookmark: https://youtu.be/__2UgFNYgf8?t=1453
